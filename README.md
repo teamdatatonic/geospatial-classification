@@ -60,7 +60,7 @@ Please make sure you select your own Google Cloud Project you can work on for th
 
 - Open a terminal via the file menu: **File > New > Terminal**
 
-![open-terminal](./img/open-terminal.jpg)
+![open-terminal](./img/open-terminal.png)
 
 ### Step 4: Cloning the repo
 
