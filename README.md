@@ -1,7 +1,5 @@
 # 🏭 Coal Plant Predictions -- _geospatial-classification_
 
-> [Watch the video in YouTube<br> ![thumbnail](http://img.youtube.com/vi/8amFK7T_n30/0.jpg)](https://youtu.be/8amFK7T_n30)
-
 This model uses satellite data to predict if a coal plant is turned on and producing carbon emissions. The satellite data comes from [Google Earth Engine.](https://earthengine.google.com/)
 
 * **Model**: 1D Fully Convolutional Network in [TensorFlow]
@@ -17,7 +15,7 @@ This model uses satellite data to predict if a coal plant is turned on and produ
 
 ## Creating a Google Cloud project
 
-Before you begin, it is recommended to create a new Google Cloud project so that the activities from this lab do not interfere with other existing projects.You may refer to the official documentation ([Creating and Managing Projects]) for detailed instructions.
+Before you begin, it is recommended to create a new Google Cloud project so that the activities from this lab do not interfere with other existing projects. You may refer to the official documentation ([Creating and Managing Projects]) for detailed instructions.
 
 [Creating and Managing Projects]: https://cloud.google.com/resource-manager/docs/creating-managing-projects
 
